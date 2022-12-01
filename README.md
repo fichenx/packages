@@ -1,2 +1,2 @@
-# fichenx-package
+# packages
 备份openwrt插件
