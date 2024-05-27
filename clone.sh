@@ -25,4 +25,4 @@ git_sparse_clone main "https://github.com/Hyy2001X/AutoBuild-Packages" "Hyy2001X
 git clone -b openwrt-18.06 https://github.com/tty228/luci-app-wechatpush luci-app-serverchan
 
 #luci-app-vssr
-git clone -b master https://github.com/jerrykuku/luci-app-vssr luci-app-vssr
+git clone -b master https://github.com/MilesPoupart/luci-app-vssr luci-app-vssr
