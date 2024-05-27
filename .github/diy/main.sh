@@ -19,7 +19,7 @@ git_sparse_clone master "https://github.com/kiddin9/openwrt-packages" "kiddin9" 
 git_sparse_clone main "https://github.com/Lienol/openwrt-package" "Lienol" luci-app-filebrowser
 
 #luci-app-npc
-git_sparse_clone main "https://github.com/Hyy2001X/AutoBuild-Packages" "Hyy2001X" luci-app-npc
+git_sparse_clone master "https://github.com/Hyy2001X/AutoBuild-Packages" "Hyy2001X" luci-app-npc
 
 #luci-app-wechatpush
 git clone -b openwrt-18.06 https://github.com/tty228/luci-app-wechatpush luci-app-serverchan
