@@ -22,7 +22,9 @@ git_sparse_clone main "https://github.com/Lienol/openwrt-package" "Lienol" luci-
 git_sparse_clone master "https://github.com/Hyy2001X/AutoBuild-Packages" "Hyy2001X" luci-app-npc
 
 #luci-app-wechatpush
+git rm --cached luci-app-serverchan
 git clone -b openwrt-18.06 --depth 1 https://github.com/tty228/luci-app-wechatpush luci-app-serverchan
 
 #luci-app-vssr
+git rm --cached luci-app-vssr
 git clone -b master --depth 1 https://github.com/MilesPoupart/luci-app-vssr luci-app-vssr
