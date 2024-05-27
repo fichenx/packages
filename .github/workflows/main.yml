@@ -2,9 +2,9 @@ name: Sync packages
 
 on:
   push:
-    paths:
-      - '.github/workflows/wall.yml'
-      - '.github/diy/main.sh'
+    #paths:
+      #- '.github/workflows/wall.yml'
+      #- '.github/diy/main.sh'
   #schedule:
   #  - cron: 0 */8 * * *
   repository_dispatch:
