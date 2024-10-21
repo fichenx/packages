@@ -1,12 +1,9 @@
 # packages
-备份openwrt插件
+备份openwrt插件（JS版）
 
-## luci-app-socat
-源地址：[chenmozhijin/luci-app-socat](https://github.com/chenmozhijin/luci-app-socat)
+## luci-theme-design
+源地址：[papagaye744/luci-theme-design](https://github.com/papagaye744/luci-theme-design/tree/js)
 
-同时兼容firewall3/4 的luci-app-socat
-
-原软件包来自[Lienol (Li2nOnline)](https://github.com/Lienol)的[Lienol/openwrt-package](https://github.com/Lienol/openwrt-package)仓库，根据[sbwml (Bard)](https://github.com/sbwml)的pr
-[Lienol/openwrt-package#39](https://github.com/Lienol/openwrt-package/pull/39/commits) 修改并修复了一点小问题  
-感谢[Lienol (Li2nOnline)](https://github.com/Lienol)与[sbwml (Bard)](https://github.com/sbwml)两位大佬
+luci-theme-design 是一个针对移动端和PC端的沉浸式WebApp体验和优化的OpenWrt LuCI主题
+luci-theme-design基于[luci-theme-neobird](https://github.com/thinktip/luci-theme-neobird)二次开发
 
